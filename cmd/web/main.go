@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Dejan91/bookings/pkg/config"
-	"github.com/Dejan91/bookings/pkg/handlers"
-	"github.com/Dejan91/bookings/pkg/render"
+	"github.com/Dejan91/bookings/internal/config"
+	"github.com/Dejan91/bookings/internal/handlers"
+	"github.com/Dejan91/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 	"log"
 	"net/http"
